@@ -1,0 +1,93 @@
+F:\workspace\pywork\Scripts\python.exe F:/workspace/PycharmProjects/CSC791_HW1/hw1.py
+
+-----| test_whitespace |-----------------------
+# pass
+
+-----| test_modules |-----------------------
+# pass
+
+-----| test_arithmetic |-----------------------
+# pass
+
+-----| test_functions |-----------------------
+# pass
+
+-----| test_strings |-----------------------
+# pass
+
+-----| test_exceptions |-----------------------
+# pass
+
+-----| test_lists_1 |-----------------------
+# pass
+
+-----| test_lists_2 |-----------------------
+# pass
+
+-----| test_tuples |-----------------------
+# pass
+
+-----| test_dictionaries |-----------------------
+# pass
+
+-----| test_defaultdict |-----------------------
+# pass
+
+-----| test_counter |-----------------------
+# pass
+
+-----| test_sets |-----------------------
+# pass
+
+-----| test_controlflow |-----------------------
+# pass
+
+-----| test_truthiness_1 |-----------------------
+# pass
+
+-----| test_truthiness_2 |-----------------------
+# pass
+
+-----| test_sorting |-----------------------
+# pass
+
+-----| test_listcomprehensions |-----------------------
+# pass
+
+-----| test_generator |-----------------------
+# pass
+
+-----| test_randomness |-----------------------
+# pass
+
+-----| test_regex |-----------------------
+# pass
+
+-----| test_oop |-----------------------
+# pass
+
+-----| test_functionaltools_1 |-----------------------
+# pass
+
+-----| test_functionaltools_2 |-----------------------
+# pass
+
+-----| test_enumerate |-----------------------
+1 sun
+2 moon
+3 earth
+4 mars
+# pass
+
+-----| test_zip |-----------------------
+# pass
+
+-----| test_args_1 |-----------------------
+# pass
+
+-----| test_args_2 |-----------------------
+# pass
+
+# pass= 28 fail= 0 %pass = 100%
+
+Process finished with exit code 0
