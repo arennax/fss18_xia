@@ -3,12 +3,17 @@ from betterDisplay import display, printdata
 import random, math
 
 
-def cap(x, lo, hi):
-    return min(hi, max(lo, x))
+def cap(input, lower, upper):
+    if input in range(lower, upper):
+        return input
+    elif input >= upper:
+        return upper
+    elif input <= lower:
+        return lower
 
 
 def another(x, t):
-    y = cap(math.floor(random.random() * len(t)), 0, len(t) - 1)
+    y = cap(math.floor(0.5 + random.random() * len(t)), 0, len(t) - 1)
     if x == y:
         return another(x, t)
     if t[y]:
@@ -59,5 +64,3 @@ def doms(data, result_display):
 def mainDom(s, result_display):
     print(s)
     doms(rows(s), result_display)
-
-

@@ -1,7 +1,7 @@
 import pandas as pd
 from pandas import DataFrame
 
-'''I just usethis to make results look prettier'''
+'''I just use this to make results look prettier'''
 
 pd.set_option('display.height', 1000)
 pd.set_option('display.max_rows', 500)
