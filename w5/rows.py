@@ -74,13 +74,13 @@ def rows1(file):
                 data.row(cells)
         first = False
 
-    print('\t n \t mode \t frequency')
-    for i, j in data.syms.items():
-        print(i + 1, '\t', data.name[i], '\t', j.n, '\t', j.mode, '\t', j.most)
-    print('\n')
-    print('\t n \t mu \t sd')
-    for i, j in data.nums.items():
-        print(i + 1, '\t', data.name[i], '\t', j.n, '\t', round(j.mu, 2), '\t', round(j.sd, 2))
+    # print('\t n \t mode \t frequency')
+    # for i, j in data.syms.items():
+    #     print(i + 1, '\t', data.name[i], '\t', j.n, '\t', j.mode, '\t', j.most)
+    # print('\n')
+    # print('\t n \t mu \t sd')
+    # for i, j in data.nums.items():
+    #     print(i + 1, '\t', data.name[i], '\t', j.n, '\t', round(j.mu, 2), '\t', round(j.sd, 2))
     return data
 
 
@@ -91,5 +91,5 @@ def reader(file):
 
 
 def rows(file):
-    print('\n', file)
+    # print('\n', file)
     return rows1(reader(file))
