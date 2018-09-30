@@ -35,7 +35,7 @@ def dom(data, row1, row2):
 
 
 def doms(data, result_display):
-    n = len(data.rows)
+    n = 100   # samples = 100
     c = len(data.name)
     new_header = data.name + ['>dom']
     for r1, row1 in enumerate(data.rows):

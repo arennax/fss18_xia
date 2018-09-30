@@ -2,7 +2,7 @@ from sample import Sample
 
 
 class Num:
-    def __init__(self, Lists):
+    def __init__(self, Lists=[]):
         self.max = len(Lists)
         self.n = 0
         self.mu = 0
