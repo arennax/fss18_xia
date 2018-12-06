@@ -11,7 +11,8 @@ Prof. Tim Menzies
 
 # Group Information
 
-Group#: M
+Group Number: M
+
 Member: Patrick Xia
 
 # Introduction
