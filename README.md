@@ -1,4 +1,4 @@
-# Foundations of Software Science
+# Foundations of Software Science Final Project
 
 Fall 2018 
 NC State 
