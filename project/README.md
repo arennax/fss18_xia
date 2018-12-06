@@ -9,11 +9,11 @@
 
 ## Report Doc
 
-+ [PDF Version](https://github.com/arennax/fss18_xia/blob/master/Report.pdf)
++ [Report PDF](https://github.com/arennax/fss18_xia/blob/master/Report.pdf)
 
 ## Presentation Slides
 
-+ [PDF Version](https://github.com/arennax/fss18_xia/blob/master/presentation.pdf)
++ [Presentation PDF](https://github.com/arennax/fss18_xia/blob/master/presentation.pdf)
 
 ## License
 
