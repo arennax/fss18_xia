@@ -7,9 +7,13 @@
 
 + [Effort Data](https://github.com/arennax/fss18_xia/tree/master/project/data)
 
-## Report
+## Report Doc
 
 + [PDF Version](https://github.com/arennax/fss18_xia/blob/master/Report.pdf)
+
+## Presentation Slides
+
++ [PDF Version](https://github.com/arennax/fss18_xia/blob/master/presentation.pdf)
 
 ## License
 
