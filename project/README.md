@@ -5,7 +5,7 @@
 
 ## Data
 
-+ [Effort Data](https://github.com/ai-se/magic101/tree/hpc/data)
++ [Effort Data](https://github.com/arennax/fss18_xia/tree/master/project/data)
 
 ## Report
 
