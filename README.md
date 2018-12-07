@@ -1,8 +1,11 @@
 # Foundations of Software Science
 
 Fall 2018 
+
 NC State 
+
 Computer Science
+
 Tuesdays, Thursdays, 4:30pm 
 
 # Instructor
