@@ -13,7 +13,7 @@
 
 ## Presentation Slides
 
-+ [Presentation PDF](https://github.com/arennax/fss18_xia/blob/master/presentation.pdf)
++ [Presentation PDF](https://github.com/arennax/fss18_xia/blob/master/Slides.pdf)
 
 ## License
 
